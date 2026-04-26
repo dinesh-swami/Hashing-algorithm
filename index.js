@@ -1,4 +1,5 @@
 function hashing(password) {
+function hashing(password) {
 
   let chachters = "aAbBcCdD1eEfFgGh0H2iIjJkK3lLmMnN7o4Op8PkKq9QrS5stTuUvVw6WxXyYzZ";
 
