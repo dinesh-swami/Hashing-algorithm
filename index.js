@@ -24,6 +24,19 @@ function decrypt(encryptedPassword) {
     }
 
     return password;
+  }}
+  return value;
+};
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+function decrypt(encryptedPassword) {
+    let password = "";
+    
+    for (let i = 0; i < encryptedPassword.length; i) {
+        password += String.fromCharCode(encryptedPassword[i].charCodeAt(0) - 1);
+        i = i+4;
+    }
+
+    return password;
 };
 console.log(decrypt('bkc2ni04bcKJoLVs!bAkt8F2bCiJmKqjvs0XkUSnbMIj!3JvA1sU/KJzdVTkpXwwna5V!KdK:Ldz1Bqr8BXQ:7TU!Xtp�cGe�Fji!HBVऱSVkौN0UहnYr'))
 console.log(decrypt('bkc2ni04bcKJoLVs!bAkt8F2bCiJmKqjvs0XkUSnbMIj!3JvA1sU/KJzdVTkpXwwna5V!KdK:Ldz1Bqr8BXQ:7TU!Xtp�cGe�Fji!HBVऱSVkौN0UहnYr'))
