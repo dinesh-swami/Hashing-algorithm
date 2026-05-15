@@ -29,5 +29,6 @@ function decrypt(encryptedPassword) {
 };
 console.log(hashing("aman saluja @.com 9079 😎 रोस"))
 
+
 console.log(decrypt('bkc2ni04bcKJoLVs!bAkt8F2bCiJmKqjvs0XkUSnbMIj!3JvA1sU/KJzdVTkpXwwna5V!KdK:Ldz1Bqr8BXQ:7TU!Xtp�cGe�Fji!HBVऱSVkौN0UहnYr'))
 
