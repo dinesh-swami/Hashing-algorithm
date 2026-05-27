@@ -28,6 +28,3 @@ function decrypt(encryptedPassword) {
   return value;
 };
 console.log(hashing("aman saluja @.com 9079 😎  रोस"))
-console.log(hashing("aman saluja @.com 9079 😎ि्ेडि ककोके  रोस"))
-console.log(hashing("aman saluja @.com 9079 😎ि्ेडि ककोकेे्चिरते्िरक  रोस"))
-console.log(hashing("aman saluja @.com 9079 😎ि्ेडि ककोकेे्चिरते्िरक  रोस"))
