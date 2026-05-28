@@ -27,7 +27,8 @@ function decrypt(encryptedPassword) {
   }}
   return value;
 };
-console.log(hashing("aman saluja @.com 9079 😎  रोस"))
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
 console.log(hashing("aman saluja @.com 9079 😎  रोस"))
 console.log(hashing("aman saluja @.com 9079 😎  रोस"))
 console.log(hashing("aman saluja @.com 9079 😎  रोस"))
