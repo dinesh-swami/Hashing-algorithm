@@ -38,6 +38,106 @@ console.log("test this algo")
 console.log("test this algo")
 console.log("test this algo")
 console.log("test this algo")
+};
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+function decrypt(encryptedPassword) {
+    let password = "";
+    
+    for (let i = 0; i < encryptedPassword.length; i) {
+        password += String.fromCharCode(encryptedPassword[i].charCodeAt(0) - 1);
+        i = i+4;
+    }
+
+    return password;
+  }}
+  return value;
+};
+};
+
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+};
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+function decrypt(encryptedPassword) {
+    let password = "";
+    
+    for (let i = 0; i < encryptedPassword.length; i) {
+        password += String.fromCharCode(encryptedPassword[i].charCodeAt(0) - 1);
+        i = i+4;
+    }
+
+    return password;
+  }}
+  return value;
+};
+};
+
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+};
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+function decrypt(encryptedPassword) {
+    let password = "";
+    
+    for (let i = 0; i < encryptedPassword.length; i) {
+        password += String.fromCharCode(encryptedPassword[i].charCodeAt(0) - 1);
+        i = i+4;
+    }
+
+    return password;
+  }}
+  return value;
+};
+};
+
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+};
+console.log(hashing("aman saluja @.com 9079 😎 रोस"))
+function decrypt(encryptedPassword) {
+    let password = "";
+    
+    for (let i = 0; i < encryptedPassword.length; i) {
+        password += String.fromCharCode(encryptedPassword[i].charCodeAt(0) - 1);
+        i = i+4;
+    }
+
+    return password;
+  }}
+  return value;
+};
+};
+
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
+console.log("test this algo")
 console.log("test this algo")
 
 
